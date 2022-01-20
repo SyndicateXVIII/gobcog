@@ -11,7 +11,7 @@
         {"parts": 10, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 0, "statmult": 1.6, "xpmult": 1.5, "cpmult": 1.3}
     ],
     "Skrrtis": [
-        {"parts": 2, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 2, "statmult": 1.0, "xpmult": 1.4, "cpmult": 1.0}
+        {"parts": 2, "att": 40, "cha": 0, "int": 0, "dex": 0, "luck": 2, "statmult": 1.0, "xpmult": 1.4, "cpmult": 1.0}
     ],
     "Heavenswheel": [
         {"parts": 5, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 3, "statmult": 1.0, "xpmult": 1.0, "cpmult": 1.5},
