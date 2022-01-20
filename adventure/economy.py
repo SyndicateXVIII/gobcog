@@ -302,7 +302,7 @@ class EconomyCommands(AdventureMixin):
                     author=author.mention,
                     currency=adventure_credits_name,
                     amount=humanize_number(amount),  # Make customizable?
-                    new_balance=humanize_number(await bank.get_balance(author))),
+                    new_balance=humanize_number(await bank.get_balance(author)),
                 ),
             )
         try:
