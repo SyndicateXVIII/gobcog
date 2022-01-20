@@ -277,7 +277,7 @@ class EconomyCommands(AdventureMixin):
         """Get some free gold."""
         author = ctx.author
         adventure_credits_name = await bank.get_currency_name(ctx.guild)
-        amount = 500  # Make Customizable?
+        amount = 5000  # Make Customizable?
         try:
             await bank.deposit_credits(author, amount)
         except BalanceTooHigh as exc:
@@ -301,8 +301,8 @@ class EconomyCommands(AdventureMixin):
                 ).format(
                     author=author.mention,
                     currency=adventure_credits_name,
-                    amount=humanize_number(amount),  # Make customizable?
-                    new_balance=humanize_number(await bank.get_balance(author)),
+                    amount=0.25(amount),  # Make customizable?
+                    new_balance=0.25(amount(await bank.get_balance(author))),
                 ),
             )
         try:
