@@ -301,8 +301,8 @@ class EconomyCommands(AdventureMixin):
                 ).format(
                     author=author.mention,
                     currency=adventure_credits_name,
-                    amount=0.25(amount),  # Make customizable?
-                    new_balance=0.25(amount(await bank.get_balance(author))),
+                    amount=humanize_number(amount),  # Make customizable?
+                    new_balance=humanize_number(await bank.get_balance(author))),
                 ),
             )
         try:
