@@ -2629,11 +2629,10 @@ class Adventure(
         for lock in self.locks.values():
             with contextlib.suppress(Exception):
                 lock.release()
-
-    from redbot.core import commands, bank
-        @commands.command()
-        @commands.guild_only()
-            async def bal(self, ctx):
-                balance = await bank.get_balance(ctx.author)
-                await ctx.send(f"Your bank balance is: {balance}")
-               
+                from redbot.core import commands, bank
+                    @commands.command()
+                    @commands.guild_only()
+                    async def bal(self, ctx):
+                        balance = await bank.get_balance(ctx.author)
+                        await ctx.send(f"Your bank balance is: {balance}")
+                
