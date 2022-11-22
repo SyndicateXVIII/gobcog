@@ -1,31 +1,31 @@
 {
     "Garchomp": {
-        "hp": 546.5,
-        "pdef": 1.1,
-        "mdef": 1.2,
-        "dipl": 530.5,
+        "hp": 508.0,
+        "pdef": 1.45,
+        "mdef": 1.35,
+        "dipl": 508.0,
         "image": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/445Garchomp.png/1200px-445Garchomp.png
 ",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Weasel": {
-        "hp": 512.75,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 538.75,
-        "image": "https://cdn.pixabay.com/photo/2018/04/26/14/50/animals-3352109_960_720.jpg",
-        "boss": false,
+    "Victini": {
+        "hp": 500.0,
+        "pdef": 1.4,
+        "mdef": 1.4,
+        "dipl": 500.0,
+        "image": "https://assets.poketwo.net/images/494.png?v=26",
+        "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Bat": {
-        "hp": 543.0,
-        "pdef": 1.01,
-        "mdef": 1.55,
-        "dipl": 511.5,
-        "image": "https://live.staticflickr.com/3741/9187712502_bbecd929e1_b.jpg",
+    "Snivy": {
+        "hp": 445.0,
+        "pdef": 1.05,
+        "mdef": 1.05,
+        "dipl": 445.0,
+        "image": "https://assets.poketwo.net/images/495.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
