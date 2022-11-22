@@ -1,14 +1,4 @@
 {
-    "Garchomp": {
-        "hp": 508.0,
-        "pdef": 1.45,
-        "mdef": 1.35,
-        "dipl": 508.0,
-        "image": "https://assets.poketwo.net/images/445.png?v=26",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
     "Victini": {
         "hp": 500.0,
         "pdef": 1.4,
