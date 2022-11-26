@@ -449,112 +449,112 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Swan": {
-        "hp": 531.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 530.75,
-        "image": "https://cdn.pixabay.com/photo/2019/05/01/09/50/swan-4170400_960_720.jpg",
+    "Sawk": {
+        "hp": 475.0,
+        "pdef": 1.25,
+        "mdef": 1.25,
+        "dipl": 485.0,
+        "image": "https://assets.poketwo.net/images/539.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Dryad Spellcaster": {
-        "hp": 517.25,
-        "pdef": 1.48,
-        "mdef": 1.22,
-        "dipl": 543.25,
-        "image": "https://cdn.pixabay.com/photo/2016/05/14/19/45/dryad-1392438_960_720.jpg",
+    "Sewaddle": {
+        "hp": 445.0,
+        "pdef": 1.20,
+        "mdef": 1.10,
+        "dipl": 442.0,
+        "image": "https://assets.poketwo.net/images/540.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Voidwalker Demon": {
-        "hp": 545.25,
-        "pdef": 1.05,
-        "mdef": 1.24,
-        "dipl": 522.5,
-        "image": "https://cdn.pixabay.com/photo/2013/07/13/13/49/demon-161607_960_720.png",
+    "Swadloon": {
+        "hp": 455.0,
+        "pdef": 1.40,
+        "mdef": 1.30,
+        "dipl": 442.0,
+        "image": "https://assets.poketwo.net/images/541.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Harpy Witch": {
-        "hp": 519.25,
-        "pdef": 1.97,
-        "mdef": 1.2,
-        "dipl": 527.5,
-        "image": "https://cdn.pixabay.com/photo/2015/01/31/18/44/harpie-618781_960_720.jpg",
+    "Leavanny": {
+        "hp": 475.0,
+        "pdef": 1.30,
+        "mdef": 1.30,
+        "dipl": 492.0,
+        "image": "https://assets.poketwo.net/images/542.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Skeleton Troop Leader": {
-        "hp": 528.0,
-        "pdef": 1.75,
-        "mdef": 1.69,
-        "dipl": 531.75,
-        "image": "https://cdn.pixabay.com/photo/2017/05/01/20/45/death-head-2276610_960_720.jpg",
+    "Venipede": {
+        "hp": 430.0,
+        "pdef": 1.09,
+        "mdef": 0.89,
+        "dipl": 457.0,
+        "image": "https://assets.poketwo.net/images/543.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Troll Guard": {
-        "hp": 551.0,
-        "pdef": 2.08,
-        "mdef": 1.2,
-        "dipl": 515.0,
-        "image": "https://cdn.pixabay.com/photo/2018/04/18/20/46/troll-3331579_960_720.png",
+    "Whirlipede": {
+        "hp": 440.0,
+        "pdef": 1.49,
+        "mdef": 1.29,
+        "dipl": 447.0,
+        "image": "https://assets.poketwo.net/images/544.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Wood Spider": {
-        "hp": 536.25,
-        "pdef": 4.5,
-        "mdef": 1.49,
-        "dipl": 534.5,
-        "image": "https://i.stack.imgur.com/S21a4.jpg",
+    "Scolipede": {
+        "hp": 460.0,
+        "pdef": 1.39,
+        "mdef": 1.19,
+        "dipl": 512.0,
+        "image": "https://assets.poketwo.net/images/545.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Centaur Spirit-talker": {
-        "hp": 541.5,
-        "pdef": 1.33,
-        "mdef": 1.4,
-        "dipl": 521.75,
-        "image": "https://cdn.pixabay.com/photo/2013/07/13/12/16/centaur-159538_960_720.png",
+    "Cottonee": {
+        "hp": 440.0,
+        "pdef": 1.1,
+        "mdef": 1,
+        "dipl": 466.0,
+        "image": "https://assets.poketwo.net/images/546.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Trickster Faun": {
-        "hp": 530.5,
-        "pdef": 1.5,
-        "mdef": 1.42,
-        "dipl": 509.25,
-        "image": "https://cdn.pixabay.com/photo/2013/07/12/18/41/faun-153712_960_720.png",
+    "Whimsicott": {
+        "hp": 460.0,
+        "pdef": 1.35,
+        "mdef": 1.25,
+        "dipl": 516.0,
+        "image": "https://assets.poketwo.net/images/547.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Dappled Centaur": {
-        "hp": 508.5,
-        "pdef": 1.55,
-        "mdef": 1.98,
-        "dipl": 523.5,
-        "image": "https://cdn.pixabay.com/photo/2013/07/13/12/16/centaur-159538_960_720.png",
+    "Petlil": {
+        "hp": 445.0,
+        "pdef": 1.0,
+        "mdef": 1.0,
+        "dipl": 430.0,
+        "image": "https://assets.poketwo.net/images/548.png?v=26v",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Skeleton Berserker": {
-        "hp": 520.0,
-        "pdef": 1.78,
-        "mdef": 1.81,
-        "dipl": 546.0,
-        "image": "https://cdn.pixabay.com/photo/2017/10/23/17/02/fantasy-2881646_960_720.jpg",
+    "Lilligant": {
+        "hp": 470.0,
+        "pdef": 1.25,
+        "mdef": 1.25,
+        "dipl": 490.0,
+        "image": "https://assets.poketwo.net/images/549.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
