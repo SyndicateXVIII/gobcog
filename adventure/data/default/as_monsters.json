@@ -439,12 +439,12 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Forest Guardian": {
-        "hp": 540.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 523.25,
-        "image": "https://cdn.pixabay.com/photo/2017/06/10/22/58/composing-2391033_960_720.jpg",
+    "Throh": {
+        "hp": 520.0,
+        "pdef": 1.35,
+        "mdef": 1.35,
+        "dipl": 445.0,
+        "image": "https://assets.poketwo.net/images/538.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
