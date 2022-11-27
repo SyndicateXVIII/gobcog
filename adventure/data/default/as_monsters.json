@@ -989,102 +989,102 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Voidspawn Demon": {
-        "hp": 542.5,
-        "pdef": 1.55,
-        "mdef": 1.9,
-        "dipl": 500.5,
-        "image": "http://pngimg.com/uploads/demon/demon_PNG24.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Harpy Matriarch": {
-        "hp": 509.5,
-        "pdef": 1.2,
-        "mdef": 1.75,
-        "dipl": 551.0,
-        "image": "https://cdn.pixabay.com/photo/2017/07/10/22/17/harpy-2491774_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Orc Shieldbreaker": {
-        "hp": 509.5,
-        "pdef": 1.21,
-        "mdef": 1.9,
-        "dipl": 516.0,
-        "image": "https://cdn.pixabay.com/photo/2018/04/17/20/14/troll-3328592_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Arcane-Touched Spriggan": {
-        "hp": 511.75,
-        "pdef": 1.2,
+    "Jellicent": {
+        "hp": 500.0,
+        "pdef": 1.20,
         "mdef": 1.55,
-        "dipl": 510.0,
-        "image": "https://cdn.pixabay.com/photo/2017/10/06/21/08/fantasy-2824654_960_720.jpg",
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/593.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Trickster Tree Spirit": {
-        "hp": 546.25,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 536.0,
-        "image": "https://cdn.pixabay.com/photo/2015/12/13/13/33/log-1091115_960_720.jpg",
+    "Alomomola": {
+        "hp": 565.0,
+        "pdef": 1.30,
+        "mdef": 0.95,
+        "dipl": 465.0,
+        "image": "https://assets.poketwo.net/images/594.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Spectral Kingfisher": {
-        "hp": 531.75,
-        "pdef": 1.2,
-        "mdef": 2.21,
-        "dipl": 529.0,
-        "image": "https://cdn.pixabay.com/photo/2017/12/19/18/43/fantasy-3028475_960_720.jpg",
+    "Joltik": {
+        "hp": 450.0,
+        "pdef": 1.00,
+        "mdef": 1.00,
+        "dipl": 465.0,
+        "image": "https://assets.poketwo.net/images/595.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Fire Salamander": {
-        "hp": 501.75,
-        "pdef": 2.29,
-        "mdef": 1.2,
-        "dipl": 524.0,
-        "image": "https://cdn.pixabay.com/photo/2012/08/18/14/00/fire-salamander-54533_960_720.jpg",
+    "Galvantula": {
+        "hp": 470.0,
+        "pdef": 1.10,
+        "mdef": 1.10,
+        "dipl": 508.0,
+        "image": "https://assets.poketwo.net/images/596.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Troll Captain": {
-        "hp": 507.75,
-        "pdef": 1.2,
-        "mdef": 1.26,
-        "dipl": 534.0,
-        "image": "https://cdn.pixabay.com/photo/2018/04/18/17/26/say-gestalt-3331025_960_720.png",
+    "Ferroseed": {
+        "hp": 444.0,
+        "pdef": 1.41,
+        "mdef": 1.36,
+        "dipl": 410.0,
+        "image": "https://assets.poketwo.net/images/597.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Corrupted Phoenix": {
-        "hp": 521.0,
-        "pdef": 1.2,
-        "mdef": 1.99,
-        "dipl": 567.5,
-        "image": "https://cdn.pixabay.com/photo/2016/06/06/21/28/phoenix-1440452_960_720.jpg",
+    "Ferrothorn": {
+        "hp": 474.0,
+        "pdef": 1.81,
+        "mdef": 1.66,
+        "dipl": 420.0,
+        "image": "https://assets.poketwo.net/images/598.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Fel-Corrupted Satyr": {
-        "hp": 518.0,
-        "pdef": 1.56,
-        "mdef": 1.86,
-        "dipl": 535.25,
-        "image": "https://banner2.kisspng.com/20180205/vjq/kisspng-demon-idea-demon-png-transparent-5a790f727e5a00.3066432715178832505175.jpg",
+    "Klink": {
+        "hp": 440.0,
+        "pdef": 1.20,
+        "mdef": 1.10,
+        "dipl": 430.0,
+        "image": "https://assets.poketwo.net/images/599.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Klang": {
+        "hp": 460.0,
+        "pdef": 1.45,
+        "mdef": 1.35,
+        "dipl": 450.0,
+        "image": "https://assets.poketwo.net/images/600.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Klinklang": {
+        "hp": 460.0,
+        "pdef": 1.65,
+        "mdef": 1.35,
+        "dipl": 490.0,
+        "image": "https://assets.poketwo.net/images/601.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Tynamo": {
+        "hp": 435.0,
+        "pdef": 0.90,
+        "mdef": 0.90,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/602.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
