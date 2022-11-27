@@ -1663,398 +1663,119 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Primal Forest Elemental": {
+    "Ascended LowkeySalt": {
         "hp": 928.0,
         "pdef": 1.34,
         "mdef": 1.2,
         "dipl": 1014.0,
-        "image": "https://cdn.pixabay.com/photo/2019/03/09/02/12/eyes-4043559_960_720.jpg",
-        "boss": false,
+        "image": "https://cdn.discordapp.com/avatars/439142935250993152/329c49504ee78ff4eb31568dc0eb6deb.png?size=4096",
+        "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Basilisk": {
+    "Ascended Snom": {
         "hp": 745.0,
         "pdef": 1.2,
         "mdef": 1.52,
         "dipl": 919.0,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wenceslas_Hollar_-_The_basilisk_and_the_weasel.jpg",
+        "image": "https://assets.poketwo.net/images/872.png?v=26",
         "boss": false,
         "miniboss": {
             "requirements": [".mirror_shield", "left"],
-            "defeat": "The Basilisk's gaze turned everyone to stone.",
+            "defeat": "The Snom's gaze turned everyone to stone.",
             "special": "gaze"
         },
         "color": ""
     },
-    "Ascended Fire Wyvern": {
+    "Ascended Clean": {
         "hp": 607.25,
         "pdef": 1.8,
         "mdef": 1.2,
         "dipl": 975.0,
-        "image": "https://barakabe.files.wordpress.com/2013/05/dragon5.jpg",
+        "image": "https://cdn.discordapp.com/avatars/533371982285111322/0215035b1364df74a6416f21dee8dca0.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Golden Draconid": {
+    "Ascended Lord Dunsparce": {
         "hp": 650.5,
         "pdef": 1.8,
         "mdef": 1.9,
         "dipl": 945.25,
-        "image": "https://cdn.pixabay.com/photo/2018/05/18/22/52/dragon-3412281_960_720.png",
+        "image": "https://cdn.discordapp.com/avatars/459281791480758327/d498d1fb7d9cb0e2dcac2e8ffed4e3e5.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Black Wyrm": {
+    "Ascended NickPlayz": {
         "hp": 660.75,
         "pdef": 1.2,
         "mdef": 1.2,
         "dipl": 960.75,
-        "image": "https://kagesatsuki.files.wordpress.com/2017/05/170531_02.jpg",
+        "image": "https://cdn.discordapp.com/avatars/693770997467316244/87b87d2d5c83b689ebdac46ca4a689f8.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Ice Wyvern": {
+    "Ascended Khostie": {
         "hp": 666.75,
         "pdef": 1.2,
         "mdef": 1.2,
         "dipl": 964.25,
-        "image": "https://gourmetpapermache.files.wordpress.com/2018/10/1a.jpg",
+        "image": "https://cdn.discordapp.com/guilds/707156363100422184/users/814322030039662654/avatars/a_e5737c0d7b77019debdb00f6a2c3cd11.gif?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Bronze Dragon": {
+    "Ascended Kylieogre": {
         "hp": 664.0,
         "pdef": 1.2,
         "mdef": 1.2,
         "dipl": 939.5,
-        "image": "https://cdn.pixabay.com/photo/2017/01/13/07/57/dragon-1976596_960_720.jpg",
+        "image": "https://cdn.discordapp.com/attachments/1019496154259537980/1046503409722863756/DD9A45CE-820D-44D1-884C-AB35916EB608.jpg",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Ice Dragon": {
+    "Ascended Funny Man": {
         "hp": 663.25,
         "pdef": 1.2,
         "mdef": 1.07,
         "dipl": 963.0,
-        "image": "https://gourmetpapermache.files.wordpress.com/2018/10/1a.jpg",
+        "image": "https://cdn.discordapp.com/avatars/697201902462435389/b9d995a6fc67ed523b326d1dc85fbfd0.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Aether Dragon": {
+    "Ascended Obaman": {
         "hp": 683.25,
         "pdef": 1.97,
         "mdef": 2.06,
         "dipl": 925.25,
-        "image": "https://vignette.wikia.nocookie.net/fairytailfanon/images/8/83/Beltazlel_HS.jpg",
+        "image": "https://cdn.discordapp.com/avatars/714604802612658257/7e4d2e11ed23d2a7f9212a4fb0e9ea1e.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Emerald Wyrm": {
+    "Ascended Lime Guy": {
         "hp": 676.25,
         "pdef": 1.2,
         "mdef": 1.95,
         "dipl": 911.5,
-        "image": "https://cdn.pixabay.com/photo/2016/08/05/00/10/dragon-1571287_960_720.png",
+        "image": "https://cdn.discordapp.com/avatars/270677048018599936/b1695f37236fd080cc4f80f67bb28036.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Nether Dragon": {
+    "Ascended 2TallJev": {
         "hp": 684.25,
         "pdef": 1.2,
         "mdef": 1.2,
         "dipl": 945.25,
-        "image": "https://i.imgur.com/Y3fFqUX.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Obsidian Drake": {
-        "hp": 673.5,
-        "pdef": 1.47,
-        "mdef": 1.79,
-        "dipl": 984.0,
-        "image": "https://cdn.pixabay.com/photo/2017/12/06/08/39/dragon-3001238_960_720.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Golden Wyrm": {
-        "hp": 711.0,
-        "pdef": 1.9,
-        "mdef": 1.19,
-        "dipl": 992.0,
-        "image": "https://i.imgur.com/zOd2s9R.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Ruby Dragon": {
-        "hp": 711.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 957.0,
-        "image": "https://cdn.pixabay.com/photo/2016/12/30/11/17/dragon-1940366_960_720.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Red Dragon": {
-        "hp": 706.0,
-        "pdef": 1.53,
-        "mdef": 1.2,
-        "dipl": 990.0,
-        "image": "https://i.imgur.com/KN0FcNT.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Emerald Drake": {
-        "hp": 712.5,
-        "pdef": 1.8,
-        "mdef": 1.2,
-        "dipl": 941.0,
-        "image": "https://i.imgur.com/cZZ6RJh.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Lightning Dragon": {
-        "hp": 731.0,
-        "pdef": 1.12,
-        "mdef": 2.3,
-        "dipl": 980.25,
-        "image": "https://wallpapercave.com/wp/wp1968832.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Silver Wyrm": {
-        "hp": 744.0,
-        "pdef": 1.2,
-        "mdef": 1.1,
-        "dipl": 991.25,
-        "image": "https://cdn.pixabay.com/photo/2017/01/03/17/04/dragon-1949993_960_720.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Elder Dragon": {
-        "hp": 738.25,
-        "pdef": 1.14,
-        "mdef": 1.8,
-        "dipl": 930.0,
-        "image": "https://vignette.wikia.nocookie.net/monster/images/6/6e/DragonRed.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Blood Wyrm": {
-        "hp": 767.5,
-        "pdef": 1.75,
-        "mdef": 1.2,
-        "dipl": 984.0,
-        "image": "https://cdn.pixabay.com/photo/2017/08/20/16/43/dragon-2662375_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Sandskin Wyvern": {
-        "hp": 776.75,
-        "pdef": 1.1,
-        "mdef": 1.5,
-        "dipl": 950.5,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Scale-adult-preview.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Sea Dragon": {
-        "hp": 806.0,
-        "pdef": 1.96,
-        "mdef": 1.2,
-        "dipl": 935.5,
-        "image": "https://cdn.pixabay.com/photo/2019/03/03/22/27/fantasy-4033001_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Night Dragon": {
-        "hp": 770.0,
-        "pdef": 1.2,
-        "mdef": 1.74,
-        "dipl": 964.0,
-        "image": "https://cdn.pixabay.com/photo/2015/02/28/11/35/dragons-653439_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Golden Dragon": {
-        "hp": 777.0,
-        "pdef": 1.2,
-        "mdef": 1.01,
-        "dipl": 976.5,
-        "image": "https://cdn.pixabay.com/photo/2014/01/05/01/19/dragon-238931_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Reanimated Dragon": {
-        "hp": 803.5,
-        "pdef": 1.93,
-        "mdef": 1.42,
-        "dipl": 979.0,
-        "image": "https://cdn.pixabay.com/photo/2017/01/06/14/14/dragon-1957809_960_720.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Bronze Wyrm": {
-        "hp": 817.5,
-        "pdef": 2.23,
-        "mdef": 1.2,
-        "dipl": 959.5,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dragon-Linda_BlackWin24_Jansson.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Fire Dragon": {
-        "hp": 844.0,
-        "pdef": 1.05,
-        "mdef": 1.97,
-        "dipl": 992.5,
-        "image": "https://live.staticflickr.com/3156/2806388133_4332cc63b1_z.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Jade Drake": {
-        "hp": 819.0,
-        "pdef": 1.5,
-        "mdef": 1.2,
-        "dipl": 955.25,
-        "image": "https://cdn.pixabay.com/photo/2016/10/25/22/55/dragon-1770252_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Bloodrage Drake": {
-        "hp": 830.0,
-        "pdef": 1.2,
-        "mdef": 1.9,
-        "dipl": 918.25,
-        "image": "https://i.imgur.com/dxEjIsT.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Enraged Drake": {
-        "hp": 894.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 993.0,
-        "image": "https://i.imgur.com/rCHhnqt.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Crystal Drake": {
-        "hp": 911.0,
-        "pdef": 1.7,
-        "mdef": 1.2,
-        "dipl": 1286.0,
-        "image": "https://i.imgur.com/4HWOp15.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Abyssal Drake": {
-        "hp": 937.0,
-        "pdef": 1.9,
-        "mdef": 1.2,
-        "dipl": 1286.0,
-        "image": "https://cdn.pixabay.com/photo/2018/01/21/06/04/dragon-3095910_960_720.png",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Forest Drake": {
-        "hp": 939.5,
-        "pdef": 1.25,
-        "mdef": 1.99,
-        "dipl": 998.25,
-        "image": "https://cdn.pixabay.com/photo/2018/06/08/17/23/dragon-3462724_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Earth Dragon": {
-        "hp": 977.0,
-        "pdef": 1.84,
-        "mdef": 1.2,
-        "dipl": 992.0,
-        "image": "https://cdn.pixabay.com/photo/2017/08/13/23/08/dragon-2638881_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Viridian Amphithere": {
-        "hp": 976.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 1208.0,
-        "image": "https://i.imgur.com/oTi3K3q.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Golden Amphitere": {
-        "hp": 1028.0,
-        "pdef": 1.01,
-        "mdef": 1.2,
-        "dipl": 1213.5,
-        "image": "https://i.imgur.com/k5BWr2K.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Celestial Wyrm": {
-        "hp": 1103.5,
-        "pdef": 1.8,
-        "mdef": 1.4,
-        "dipl": 1237.0,
-        "image": "https://i.imgur.com/BbBmEOF.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Golden Guardian Wyrm": {
-        "hp": 1283.5,
-        "pdef": 1.8,
-        "mdef": 1.2,
-        "dipl": 1629.0,
-        "image": "https://cdn.pixabay.com/photo/2013/10/19/05/21/sculpture-197772_960_720.jpg",
-        "boss": true,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Quintessence Dragon": {
-        "hp": 1353.0,
-        "pdef": 1.24,
-        "mdef": 2.11,
-        "dipl": 1663.0,
-        "image": "https://cdn.pixabay.com/photo/2017/09/13/21/29/fantasy-2747066_960_720.jpg",
+        "image": "https://cdn.discordapp.com/avatars/433418738256183296/6b89374ac43783537ea01322bf4f7ce6.png?size=4096",
         "boss": true,
         "miniboss": {},
         "color": ""
     }
+  
 }
