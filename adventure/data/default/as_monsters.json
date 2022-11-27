@@ -559,142 +559,152 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Possessed Sword": {
-        "hp": 508.5,
-        "pdef": 1.2,
+    "Basculin": {
+        "hp": 470.0,
+        "pdef": 1.15,
+        "mdef": 1.05,
+        "dipl": 596.5,
+        "image": "https://assets.poketwo.net/images/550.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Sandile": {
+        "hp": 450.0,
+        "pdef": 0.85,
+        "mdef": 0.85,
+        "dipl": 465.0,
+        "image": "https://assets.poketwo.net/images/551.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Krokorok": {
+        "hp": 460.0,
+        "pdef": 0.95,
+        "mdef": 0.95,
+        "dipl": 474.0,
+        "image": "https://assets.poketwo.net/images/552.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Krookodile": {
+        "hp": 495.0,
+        "pdef": 1.3,
         "mdef": 1.2,
-        "dipl": 533.5,
-        "image": "https://cdn.pixabay.com/photo/2015/09/02/12/35/sword-918542_960_720.jpg",
+        "dipl": 492.0,
+        "image": "https://assets.poketwo.net/images/553.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Mountain Troll": {
-        "hp": 530.75,
-        "pdef": 1.2,
-        "mdef": 1.73,
-        "dipl": 523.0,
-        "image": "https://cdn.pixabay.com/photo/2016/10/14/11/21/fantasy-1739989_960_720.jpg",
+    "Darumaka": {
+        "hp": 470.0,
+        "pdef": 0.95,
+        "mdef": 0.95,
+        "dipl": 450.0,
+        "image": "https://assets.poketwo.net/images/554.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Fire Hawk": {
-        "hp": 530.25,
-        "pdef": 1.11,
-        "mdef": 1.84,
-        "dipl": 541.5,
-        "image": "https://cdn.pixabay.com/photo/2013/07/13/09/35/eagle-155747_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Arcane Construct": {
-        "hp": 532.75,
-        "pdef": 1.7,
-        "mdef": 2.46,
-        "dipl": 513.5,
-        "image": "https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Troll Berserker": {
-        "hp": 509.75,
-        "pdef": 1.2,
-        "mdef": 2.08,
-        "dipl": 523.5,
-        "image": "https://cdn.pixabay.com/photo/2018/04/17/20/15/troll-3328599_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Spectral Spirit": {
-        "hp": 501.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 505.25,
-        "image": "https://cdn.pixabay.com/photo/2017/02/08/17/24/butterfly-2049567_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Fox Spirit": {
-        "hp": 501.0,
-        "pdef": 1.4,
-        "mdef": 1.75,
-        "dipl": 542.0,
-        "image": "https://cdn.pixabay.com/photo/2017/04/24/19/42/fuchs-2257543_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Balrog": {
-        "hp": 540.0,
-        "pdef": 1.81,
-        "mdef": 1.2,
-        "dipl": 531.0,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Durin%27s_Bane.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Doomsayer Cultist": {
-        "hp": 514.25,
-        "pdef": 1.69,
-        "mdef": 1.49,
-        "dipl": 513.25,
-        "image": "https://cdn.pixabay.com/photo/2016/09/14/12/32/forest-1669338_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Centaur Archwizard": {
-        "hp": 524.0,
+    "Darmanitan": {
+        "hp": 505.0,
         "pdef": 1.05,
-        "mdef": 1.2,
-        "dipl": 548.75,
-        "image": "https://cdn.pixabay.com/photo/2018/02/17/09/23/fantasy-3159483_960_720.jpg",
+        "mdef": 1.05,
+        "dipl": 495.0,
+        "image": "https://assets.poketwo.net/images/555.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Deer Spirit": {
-        "hp": 506.25,
-        "pdef": 1.79,
-        "mdef": 1.73,
-        "dipl": 548.0,
-        "image": "https://cdn.pixabay.com/photo/2018/03/16/21/24/fantasy-3232570_960_720.jpg",
+    "Zen Darmanitan": {
+        "hp": 505.0,
+        "pdef": 1.55,
+        "mdef": 1.55,
+        "dipl": 455.0,
+        "image": "https://assets.poketwo.net/images/555.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Succubus": {
-        "hp": 513.5,
-        "pdef": 1.44,
-        "mdef": 1.9,
-        "dipl": 537.25,
-        "image": "https://dibujando.net/files/fs/p/c/900x1000/2016/297/SuccubusnInprnt_290935.jpg",
+    "Maractus": {
+        "hp": 475.0,
+        "pdef": 1.17,
+        "mdef": 1.17,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/556.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Bear": {
-        "hp": 546.5,
-        "pdef": 1.2,
-        "mdef": 1.63,
-        "dipl": 546.0,
-        "image": "https://cdn.pixabay.com/photo/2016/03/09/09/28/bear-1245807_960_720.jpg",
+    "Dwebble": {
+        "hp": 450.0,
+        "pdef": 1.35,
+        "mdef": 0.85,
+        "dipl": 455.0,
+        "image": "https://assets.poketwo.net/images/557.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Satyr Bard": {
-        "hp": 533.5,
-        "pdef": 1.1,
-        "mdef": 1.2,
-        "dipl": 527.25,
-        "image": "https://cdn.pixabay.com/photo/2017/01/31/21/17/faun-2027325_960_720.png",
+    "Crustle": {
+        "hp": 470.0,
+        "pdef": 1.75,
+        "mdef": 1.25,
+        "dipl": 445.0,
+        "image": "https://assets.poketwo.net/images/558.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Scraggy": {
+        "hp": 450.0,
+        "pdef": 1.20,
+        "mdef": 1.20,
+        "dipl": 448.0,
+        "image": "https://assets.poketwo.net/images/559.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Scrafty": {
+        "hp": 465.0,
+        "pdef": 1.65,
+        "mdef": 1.65,
+        "dipl": 458.0,
+        "image": "https://assets.poketwo.net/images/560.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Sigilyph": {
+        "hp": 472.0,
+        "pdef": 1.3,
+        "mdef": 1.3,
+        "dipl": 497.0,
+        "image": "https://assets.poketwo.net/images/561.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Yamask": {
+        "hp": 438.0,
+        "pdef": 1.35,
+        "mdef": 1.15,
+        "dipl": 430.0,
+        "image": "https://assets.poketwo.net/images/562.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+         },
+    "Cofagrigous": {
+        "hp": 458.0,
+        "pdef": 1.95,
+        "mdef": 1.55,
+        "dipl": 430.0,
+        "image": "https://assets.poketwo.net/images/563.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
@@ -1089,352 +1099,352 @@
         "miniboss": {},
         "color": ""
     },
-    "Ascended Forest Kirin": {
-        "hp": 539.25,
-        "pdef": 1.2,
-        "mdef": 2.16,
-        "dipl": 509.25,
-        "image": "https://cdn.pixabay.com/photo/2018/02/12/14/01/horse-3148414_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Incubus": {
-        "hp": 539.25,
-        "pdef": 1.2,
-        "mdef": 1.1,
-        "dipl": 507.75,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Incubus.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Fire Fairy": {
-        "hp": 545.25,
-        "pdef": 1.2,
-        "mdef": 2.2,
-        "dipl": 527.5,
-        "image": "https://www.maxpixel.net/static/photo/1x/Fee-Magic-Mystical-Fantasy-Fire-Surreal-Elf-3350952.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Forest Spirit": {
-        "hp": 509.0,
-        "pdef": 1.53,
-        "mdef": 2.21,
-        "dipl": 517.0,
-        "image": "https://cdn.pixabay.com/photo/2017/12/29/10/44/magician-3047235_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Skeleton Trooper": {
-        "hp": 501.0,
-        "pdef": 2.06,
-        "mdef": 1.2,
-        "dipl": 531.0,
-        "image": "https://cdn.pixabay.com/photo/2019/02/18/19/02/halloween-4005104_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Magma Giant": {
-        "hp": 550.5,
-        "pdef": 1.2,
-        "mdef": 1.86,
-        "dipl": 542.75,
-        "image": "https://cdn.pixabay.com/photo/2014/07/30/09/00/arc-405098_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Elder Forest Spirit": {
-        "hp": 509.5,
-        "pdef": 2.16,
-        "mdef": 1.2,
-        "dipl": 521.5,
-        "image": "https://cdn.pixabay.com/photo/2017/03/19/11/31/horror-2156302_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Carved Totem": {
-        "hp": 522.5,
-        "pdef": 1.63,
-        "mdef": 1.5,
-        "dipl": 503.25,
-        "image": "https://cdn.pixabay.com/photo/2015/06/01/10/53/face-793186_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Faerie": {
-        "hp": 522.0,
-        "pdef": 1.71,
-        "mdef": 2.09,
-        "dipl": 537.5,
-        "image": "https://cdn.pixabay.com/photo/2017/02/26/23/41/fairy-2101714_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Corrupted Dryad": {
-        "hp": 502.5,
-        "pdef": 1.2,
-        "mdef": 1.49,
-        "dipl": 541.5,
-        "image": "https://cdn.pixabay.com/photo/2016/05/14/19/45/dryad-1392438_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Lesser Felguard": {
-        "hp": 529.75,
-        "pdef": 1.29,
-        "mdef": 2.17,
-        "dipl": 547.75,
-        "image": "https://cdn.pixabay.com/photo/2014/09/20/23/44/hell-454463_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Frost Troll": {
-        "hp": 509.0,
+    "Eelektrik": {
+        "hp": 465.0,
         "pdef": 1.2,
         "mdef": 1.2,
-        "dipl": 524.0,
-        "image": "https://cdn.pixabay.com/photo/2017/01/10/13/29/creature-1969074_960_720.png",
+        "dipl": 440.0,
+        "image": "https://assets.poketwo.net/images/603.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Guardian Statue": {
-        "hp": 529.0,
-        "pdef": 1.99,
-        "mdef": 1.46,
-        "dipl": 548.0,
-        "image": "https://cdn.pixabay.com/photo/2019/04/12/09/13/fantasy-4121663_960_720.jpg",
+    "Eelektross": {
+        "hp": 485.0,
+        "pdef": 1.3,
+        "mdef": 1.3,
+        "dipl": 450.0,
+        "image": "https://assets.poketwo.net/images/604.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Corrupted Unicorn": {
-        "hp": 547.25,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 515.0,
-        "image": "https://cdn.pixabay.com/photo/2016/04/02/04/53/colorful-1302152_960_720.png",
+    "Elgyem": {
+        "hp": 455.0,
+        "pdef": 1.05,
+        "mdef": 1.05,
+        "dipl": 430.0,
+        "image": "https://assets.poketwo.net/images/605.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Reanimated Totemic Guardian": {
-        "hp": 506.0,
-        "pdef": 1.5,
-        "mdef": 1.46,
-        "dipl": 508.75,
-        "image": "https://cdn.pixabay.com/photo/2018/02/28/03/02/sculpture-3187129_960_720.jpg",
+    "Beheeyem": {
+        "hp": 475.0,
+        "pdef": 1.25,
+        "mdef": 1.45,
+        "dipl": 440.0,
+        "image": "https://assets.poketwo.net/images/606.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Forest Troll": {
-        "hp": 531.25,
-        "pdef": 1.8,
-        "mdef": 1.72,
-        "dipl": 504.0,
-        "image": "https://cdn.pixabay.com/photo/2017/07/20/00/00/ork-2520855_960_720.jpg",
+    "Litwick": {
+        "hp": 450.0,
+        "pdef": 1.05,
+        "mdef": 1.05,
+        "dipl": 420.0,
+        "image": "https://assets.poketwo.net/images/607.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Restless Spirit": {
-        "hp": 538.5,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 510.25,
-        "image": "https://cdn.pixabay.com/photo/2017/05/11/15/03/spirit-2304469_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Satyr Lord": {
-        "hp": 540.5,
-        "pdef": 2.45,
-        "mdef": 1.08,
-        "dipl": 519.0,
-        "image": "https://cdn.pixabay.com/photo/2015/02/21/13/11/hells-spirits-644224_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Charmed Wyrm Statue": {
-        "hp": 544.5,
-        "pdef": 1.32,
-        "mdef": 1.2,
-        "dipl": 601.5,
-        "image": "https://s0.geograph.org.uk/geophotos/04/91/10/4911075_244f2d29.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Horse Spirit": {
-        "hp": 528.75,
-        "pdef": 1.35,
-        "mdef": 1.89,
-        "dipl": 603.25,
-        "image": "https://cdn.pixabay.com/photo/2014/12/25/16/53/spirit-579807_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Peacock Spirit": {
-        "hp": 543.75,
+    "Lampent": {
+        "hp": 460.0,
         "pdef": 1.1,
+        "mdef": 1.1,
+        "dipl": 455.0,
+        "image": "https://assets.poketwo.net/images/608.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Chandelure": {
+        "hp": 460.0,
+        "pdef": 1.4,
+        "mdef": 1.4,
+        "dipl": 480.0,
+        "image": "https://assets.poketwo.net/images/609.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Axew": {
+        "hp": 446.0,
+        "pdef": 1.10,
+        "mdef": 0.90,
+        "dipl": 457.0,
+        "image": "https://assets.poketwo.net/images/610.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Fraxure": {
+        "hp": 466.0,
+        "pdef": 1.20,
+        "mdef": 1.0,
+        "dipl": 467.0,
+        "image": "https://assets.poketwo.net/images/611.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Haxorus": {
+        "hp": 476.0,
+        "pdef": 1.4,
         "mdef": 1.2,
-        "dipl": 561.5,
-        "image": "https://cdn.pixabay.com/photo/2017/10/25/12/53/peacock-2887882_960_720.jpg",
+        "dipl": 497.0,
+        "image": "https://assets.poketwo.net/images/612.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Pack of Wolves": {
-        "hp": 550.0,
-        "pdef": 1.98,
-        "mdef": 1.2,
-        "dipl": 621.5,
-        "image": "https://cdn.pixabay.com/photo/2015/08/25/20/59/timber-wolves-907680_960_720.jpg",
+    "Cubchoo": {
+        "hp": 455.0,
+        "pdef": 0.9,
+        "mdef": 0.9,
+        "dipl": 440.0,
+        "image": "https://assets.poketwo.net/images/613.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Fog Beast": {
-        "hp": 512.0,
-        "pdef": 1.2,
-        "mdef": 1.42,
-        "dipl": 585.0,
-        "image": "https://cdn.pixabay.com/photo/2017/10/13/14/15/fantasy-2847724_960_720.jpg",
+    "Beartic": {
+        "hp": 495.0,
+        "pdef": 1.3,
+        "mdef": 1.3,
+        "dipl": 450.0,
+        "image": "https://assets.poketwo.net/images/614.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Fog Beast Minion": {
-        "hp": 505.0,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 527.0,
-        "image": "https://cdn.pixabay.com/photo/2017/10/22/18/30/anxiety-2878767_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Ancient Tree Spirit": {
-        "hp": 512.25,
-        "pdef": 1.78,
-        "mdef": 1.2,
-        "dipl": 573.25,
-        "image": "https://cdn.pixabay.com/photo/2017/03/08/20/12/tree-2127699_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Reanimated Statue": {
-        "hp": 564.0,
-        "pdef": 1.2,
-        "mdef": 1.54,
-        "dipl": 627.0,
-        "image": "https://cdn.pixabay.com/photo/2013/10/27/14/28/face-201442_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Skull Spirit": {
-        "hp": 526.0,
-        "pdef": 1.9,
-        "mdef": 1.2,
-        "dipl": 539.0,
-        "image": "https://cdn.pixabay.com/photo/2018/02/17/22/25/skull-3161081_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Centaur Mage": {
-        "hp": 566.25,
-        "pdef": 1.75,
-        "mdef": 1.2,
-        "dipl": 640.0,
-        "image": "https://cdn.pixabay.com/photo/2013/07/13/12/16/centaur-159538_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Vapor Spirit": {
-        "hp": 534.5,
-        "pdef": 1.2,
-        "mdef": 1.35,
-        "dipl": 544.0,
-        "image": "https://cdn.pixabay.com/photo/2015/09/23/14/46/yellowstone-953835_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Totem Spirit": {
-        "hp": 522.5,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 515.5,
-        "image": "https://cdn.pixabay.com/photo/2016/10/25/18/18/book-1769625_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Skeleton Captain": {
-        "hp": 552.5,
-        "pdef": 1.6,
-        "mdef": 1.9,
-        "dipl": 543.75,
-        "image": "https://cdn.pixabay.com/photo/2015/05/24/20/51/skull-782385_960_720.png",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Pterosaur": {
-        "hp": 562.75,
-        "pdef": 1.2,
-        "mdef": 1.2,
-        "dipl": 539.5,
-        "image": "https://cdn.pixabay.com/photo/2017/09/10/13/06/pterosaur-2735500_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Ancient Earth Spirit": {
-        "hp": 540.75,
-        "pdef": 2.01,
-        "mdef": 1.75,
-        "dipl": 620.75,
-        "image": "https://cdn.pixabay.com/photo/2015/05/26/21/32/control-785555_960_720.jpg",
-        "boss": false,
-        "miniboss": {},
-        "color": ""
-    },
-    "Ascended Fire Elemental": {
-        "hp": 560.75,
-        "pdef": 1.32,
+    "Cryogonal": {
+        "hp": 480.0,
+        "pdef": 1.0,
         "mdef": 1.85,
-        "dipl": 516.5,
-        "image": "https://cdn.pixabay.com/photo/2015/04/16/21/32/flame-726268_960_720.jpg",
+        "dipl": 505.0,
+        "image": "https://assets.poketwo.net/images/615.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
     },
-    "Ascended Ice Elemental": {
-        "hp": 563.0,
-        "pdef": 1.96,
-        "mdef": 1.9,
-        "dipl": 614.75,
-        "image": "https://cdn.pixabay.com/photo/2017/11/07/00/07/fantasy-2925250_960_720.jpg",
+    "Shelmet": {
+        "hp": 450.0,
+        "pdef": 1.35,
+        "mdef": 1.15,
+        "dipl": 425.0,
+        "image": "https://assets.poketwo.net/images/616.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Accelgor": {
+        "hp": 480.0,
+        "pdef": 0.9,
+        "mdef": 1.1,
+        "dipl": 545.0,
+        "image": "https://assets.poketwo.net/images/617.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Stunfisk": {
+        "hp": 509.0,
+        "pdef": 1.34,
+        "mdef": 1.49,
+        "dipl": 432.0,
+        "image": "https://assets.poketwo.net/images/618.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Mienfoo": {
+        "hp": 445.0,
+        "pdef": 0.9,
+        "mdef": 0.9,
+        "dipl": 465.0,
+        "image": "https://assets.poketwo.net/images/619.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Mienshao": {
+        "hp": 465.0,
+        "pdef": 1.1,
+        "mdef": 1.1,
+        "dipl": 505.0,
+        "image": "https://assets.poketwo.net/images/620.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Druddigon": {
+        "hp": 477.0,
+        "pdef": 1.4,
+        "mdef": 1.4,
+        "dipl": 448.0,
+        "image": "https://assets.poketwo.net/images/621.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Golett": {
+        "hp": 459.0,
+        "pdef": 1.0,
+        "mdef": 1.0,
+        "dipl": 435.0,
+        "image": "https://assets.poketwo.net/images/622.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Golurk": {
+        "hp": 489.0,
+        "pdef": 1.3,
+        "mdef": 1.3,
+        "dipl": 455.0,
+        "image": "https://assets.poketwo.net/images/623.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Pawniard": {
+        "hp": 445.0,
+        "pdef": 1.2,
+        "mdef": 0.9,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/624.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Bisharp": {
+        "hp": 465.0,
+        "pdef": 1.5,
+        "mdef": 1.2,
+        "dipl": 470.0,
+        "image": "https://assets.poketwo.net/images/625.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Bouffalant": {
+        "hp": 495.0,
+        "pdef": 1.45,
+        "mdef": 1.45,
+        "dipl": 455.0,
+        "image": "https://assets.poketwo.net/images/626.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Rufflet": {
+        "hp": 470.0,
+        "pdef": 1.0,
+        "mdef": 1.0,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/627.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Braviary": {
+        "hp": 500.0,
+        "pdef": 1.25,
+        "mdef": 1.25,
+        "dipl": 480.0,
+        "image": "https://assets.poketwo.net/images/628.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Vullaby": {
+        "hp": 470.0,
+        "pdef": 1.25,
+        "mdef": 1.15,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/629.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Mandibuzz": {
+        "hp": 510.0,
+        "pdef": 1.55,
+        "mdef": 1.45,
+        "dipl": 480.0,
+        "image": "https://assets.poketwo.net/images/630.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Heatmor": {
+        "hp": 485.0,
+        "pdef": 1.16,
+        "mdef": 1.16,
+        "dipl": 465.0,
+        "image": "https://assets.poketwo.net/images/631.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Durant": {
+        "hp": 458.0,
+        "pdef": 1.62,
+        "mdef": 0.98,
+        "dipl": 509.0,
+        "image": "https://assets.poketwo.net/images/632.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Deino": {
+        "hp": 452.0,
+        "pdef": 1.0,
+        "mdef": 1.0,
+        "dipl": 438.0,
+        "image": "https://assets.poketwo.net/images/633.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Zweilous": {
+        "hp": 472.0,
+        "pdef": 1.2,
+        "mdef": 1.2,
+        "dipl": 458.0,
+        "image": "https://assets.poketwo.net/images/634.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Hydreigon": {
+        "hp": 492.0,
+        "pdef": 1.4,
+        "mdef": 1.4,
+        "dipl": 498.0,
+        "image": "https://assets.poketwo.net/images/635.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Larvesta": {
+        "hp": 455.0,
+        "pdef": 1.05,
+        "mdef": 1.05,
+        "dipl": 460.0,
+        "image": "https://assets.poketwo.net/images/636.png?v=26",
+        "boss": false,
+        "miniboss": {},
+        "color": ""
+    },
+    "Volcarona": {
+        "hp": 485.0,
+        "pdef": 1.15,
+        "mdef": 1.55,
+        "dipl": 500.0,
+        "image": "https://assets.poketwo.net/images/637.png?v=26",
         "boss": false,
         "miniboss": {},
         "color": ""
