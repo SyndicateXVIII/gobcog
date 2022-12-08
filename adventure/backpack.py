@@ -96,7 +96,7 @@ class BackPackCommands(AdventureMixin):
                 help_command=self._backpack,
                 delete_message_after=True,
                 clear_reactions_after=True,
-                timeout=60,
+                timeout=180,
             ).start(ctx=ctx)
 
     @_backpack.command(name="equip")
@@ -214,7 +214,7 @@ class BackPackCommands(AdventureMixin):
                 start_adding_reactions(msg, ReactionPredicate.YES_OR_NO_EMOJIS)
                 pred = ReactionPredicate.yes_or_no(msg, ctx.author)
                 try:
-                    await ctx.bot.wait_for("reaction_add", check=pred, timeout=60)
+                    await ctx.bot.wait_for("reaction_add", check=pred, timeout=180)
                 except asyncio.TimeoutError:
                     await self._clear_react(msg)
                     return
@@ -566,7 +566,7 @@ class BackPackCommands(AdventureMixin):
                 source=SimpleSource(pages),
                 delete_message_after=True,
                 clear_reactions_after=True,
-                timeout=60,
+                timeout=180,
             ).start(ctx=ctx)
 
     @_backpack.command(name="trade")
