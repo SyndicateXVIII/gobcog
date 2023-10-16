@@ -6,9 +6,9 @@
         {"parts": 11, "att": 50, "cha": 50, "int": 100, "dex": 50, "luck": 80, "statmult": 2.0, "xpmult": 1.0, "cpmult": 2.0}
     ],
     "Ainz Ooal Gown" : [
-        {"parts": 4, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 0, "statmult": 1.0, "xpmult": 0.5, "cpmult": 1.1},
-        {"parts": 8, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 0, "statmult": 1.2, "xpmult": 0.5, "cpmult": 1.1},
-        {"parts": 10, "att": 0, "cha": 0, "int": 0, "dex": 0, "luck": 0, "statmult": 1.6, "xpmult": 1.5, "cpmult": 1.3}
+        {"parts": 4, "att": 10, "cha": 20, "int": 40, "dex": 0, "luck": 0, "statmult": 1.0, "xpmult": 0.5, "cpmult": 1.1},
+        {"parts": 8, "att": 20, "cha": 35, "int": 60, "dex": 0, "luck": 0, "statmult": 1.2, "xpmult": 0.5, "cpmult": 1.1},
+        {"parts": 10, "att": 30, "cha": 60, "int": 100, "dex": 0, "luck": 0, "statmult": 2.0, "xpmult": 1.6, "cpmult": 1.5}
     ],
     "Skrrtis": [
         {"parts": 2, "att": 0, "cha": 69, "int": 0, "dex": 0, "luck": 2, "statmult": 1.0, "xpmult": 1.4, "cpmult": 1.0}
