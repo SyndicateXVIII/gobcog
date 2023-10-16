@@ -15,7 +15,7 @@
     "Wild Herdier": {"hp": 80, "pdef": 1, "mdef": 0.8, "dipl": 100, "image": "https://assets.poketwo.net/images/507.png?v=26", "boss": false, "miniboss": {}, "color":""},
     "Wild Stoutland": {"hp": 35, "pdef": 1.2, "mdef": 0.9, "dipl": 35, "image": "https://assets.poketwo.net/images/508.png?v=26", "boss": false, "miniboss": {}, "color":""},
     "Wild Purrloin": {"hp": 39, "pdef": 1, "mdef": 15, "dipl": 40, "image": "https://assets.poketwo.net/images/509.png?v=26", "boss": false, "miniboss": {}, "color":""},
-    "Wild Bidoof": {"hp": 300, "pdef": 1.2, "mdef": 0.8, "dipl": 320, "image": "https://assets.poketwo.net/images/510.png?v=26", "boss": false, "miniboss": {"requirements": [".mirror_shield", "left"], "defeat": "The Basilisk's gaze turned everyone to stone.", "special": "gaze"}, "color":""},
+    "Wild Liepard": {"hp": 300, "pdef": 1.2, "mdef": 0.8, "dipl": 320, "image": "https://assets.poketwo.net/images/510.png?v=26", "boss": false, "miniboss": {}, "color:""},
     "Wild Pansage": {"hp": 16, "pdef": 1, "mdef": 1.1, "dipl": 18, "image": "https://assets.poketwo.net/images/511.png?v=26", "boss": false, "miniboss": {}, "color":""},
     "Wild Simisage": {"hp": 90, "pdef": 1.25, "mdef": 0.85, "dipl": 80, "image": "https://assets.poketwo.net/images/512.png?v=26", "boss": false, "miniboss": {}, "color":""},
     "Wild Pansear": {"hp": 255, "pdef": 0.8, "mdef": 1, "dipl": 255, "image": "https://assets.poketwo.net/images/513.png?v=26", "boss": false, "miniboss": {}, "color":""},
